@@ -1,5 +1,3 @@
-import * as fs from "fs";
-
 let drinks = [
    { id: "pepsi", name: "Pepsi", calories: 100 },
    { id: "coffee", name: "Coffee", calories: 25 },
